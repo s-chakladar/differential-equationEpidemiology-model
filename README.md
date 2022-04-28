@@ -1,1 +1,1 @@
-# differential-equationEpidemiology-model
+# differential-equationEpidemiology-model_SIR
